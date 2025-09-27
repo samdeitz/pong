@@ -5,7 +5,7 @@ Play with you and a friend and see who wins 👀
 ---
 
 ## ⌨ Controls & Rules
-1. Use **W/S** for the left side and **↑/↓**
+1. Use **W/S** for the left side and **↑/↓** for the right side.
 2. The goal is to get the ball past the other person's paddle.
 3. The game will start each round after approximately 3 seconds.
 4. First to 3 wins!
